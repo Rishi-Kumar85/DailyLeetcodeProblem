@@ -1,13 +1,20 @@
 class Solution {
 public:
-    bool checkPerfectNumber(int num) {
-         if (num <= 1) return false; // 0 and 1 are not perfect numbers
-    int sum = 0;
-    for (int i = 1; i <= num / 2; i++) {
-        if (num % i == 0) {
-            sum += i; // Add the divisor to the sum
+    bool checkPerfectNumber(int n) {
+          if (n <= 1) return false;
+
+    int sum = 1;
+
+    for (int i = 2; i * i <= n; i++) {
+        if (n % i == 0) {
+            sum += i;
+
+            if (i != n / i) {
+                sum += n / i;
+            }
         }
     }
-    return sum == num; // Check if the sum of divisors equals the number
+
+    return sum == n;
     }
 };
