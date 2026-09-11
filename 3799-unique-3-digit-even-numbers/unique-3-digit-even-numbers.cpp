@@ -1,51 +1,23 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
+        unordered_set<int> seen;
+        int n = digits.size();
 
-        int freq[10] = {0};
+        for(int h = 0; h < n; h++){
+            if (digits[h] == 0) continue;
+            for(int t = 0; t < n; t++){
+                if (t == h) continue;
+                for(int u = 0; u < n; u++){
+                    if(u == h || u == t) continue;
+                    if(digits[u] % 2 != 0) continue;
 
-        // Count how many times each digit appears
-        for (int d : digits) {
-            freq[d]++;
-        }
-
-        vector<int> ans;
-
-        // Choose hundreds digit
-        for (int i = 1; i <= 9; i++) {
-
-            if (freq[i] == 0)
-                continue;
-
-            freq[i]--;
-
-            // Choose tens digit
-            for (int j = 0; j <= 9; j++) {
-
-                if (freq[j] == 0)
-                    continue;
-
-                freq[j]--;
-
-                // Choose units digit
-                for (int k = 0; k <= 8; k += 2) {
-
-                    if (freq[k] == 0)
-                        continue;
-
-                    int number = i * 100 + j * 10 + k;
-
-                    ans.push_back(number);
+                    int num = digits[h]*100+digits[t]*10+digits[u];
+                    seen.insert(num);
                 }
-
-                // Restore tens digit
-                freq[j]++;
             }
-
-            // Restore hundreds digit
-            freq[i]++;
         }
 
-        return ans.size();
+        return seen.size();
     }
 };
