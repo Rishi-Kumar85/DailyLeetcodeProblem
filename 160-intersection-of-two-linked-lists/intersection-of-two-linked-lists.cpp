@@ -8,21 +8,48 @@
  */
 class Solution {
 public:
-    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-         if (headA == nullptr || headB == nullptr) {
-        return nullptr;
-    }
+    ListNode* getIntersectionNode(ListNode* headA, ListNode* headB) {
+        if (headA == nullptr || headB == nullptr) {
+            return nullptr;
+        }
 
-    ListNode* ptrA = headA;
-    ListNode* ptrB = headB;
+        // Calculate lengths of both linked lists
+        int lenA = 0, lenB = 0;
+        ListNode* tempA = headA;
+        ListNode* tempB = headB;
 
-    // Traverse both lists. When one pointer reaches the end, redirect it to the head of the other list.
-    while (ptrA != ptrB) {
-        ptrA = (ptrA == nullptr) ? headB : ptrA->next;
-        ptrB = (ptrB == nullptr) ? headA : ptrB->next;
-    }
+        while (tempA != nullptr) {
+            lenA++;
+            tempA = tempA->next;
+        }
 
-    // Either both pointers meet at the intersection node or at nullptr if there's no intersection.
-    return ptrA;
+        while (tempB != nullptr) {
+            lenB++;
+            tempB = tempB->next;
+        }
+
+        // Move the pointer of the longer list ahead by the difference in
+        // lengths
+        int diff = abs(lenA - lenB);
+        if (lenA > lenB) {
+            for (int i = 0; i < diff; i++) {
+                headA = headA->next;
+            }
+        } else {
+            for (int i = 0; i < diff; i++) {
+                headB = headB->next;
+            }
+        }
+
+        // Traverse both lists together to find the intersection point
+        while (headA != nullptr && headB != nullptr) {
+            if (headA == headB) {
+                return headA; // Intersection point found
+            }
+            headA = headA->next;
+            headB = headB->next;
+        }
+
+        return nullptr; // No intersection found
     }
 };
