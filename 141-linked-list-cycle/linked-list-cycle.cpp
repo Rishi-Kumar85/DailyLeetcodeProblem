@@ -9,10 +9,6 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-         if (head == nullptr) {
-        return false; // An empty list cannot have a cycle
-    }
-
     ListNode* slow = head;
     ListNode* fast = head;
 
