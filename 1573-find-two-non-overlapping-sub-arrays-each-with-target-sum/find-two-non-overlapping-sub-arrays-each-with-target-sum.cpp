@@ -1,48 +1,29 @@
 class Solution {
 public:
-    int minSumOfLengths(vector<int>& arr, int target) {
-
-        int n = arr.size();
-
-        vector<int> best(n, INT_MAX);
-
-        int left = 0;
+    int minSumOfLengths(vector<int>& A, int k) {
+        int n = A.size();
+        int res = n + 1;
         int sum = 0;
+        int i = 0;
 
-        int ans = INT_MAX;
+        vector<int> dp(n + 1, n);
 
-        for (int right = 0; right < n; right++) {
+        for (int j = 0; j < n; j++) {
+            sum += A[j];
 
-            sum += arr[right];
-
-            while (sum > target) {
-                sum -= arr[left];
-                left++;
+            while (sum > k) {
+                sum -= A[i++];
             }
 
-            if (sum == target) {
+            dp[j + 1] = dp[j];
 
-                int len = right - left + 1;
+            if (sum == k) {
+                res = min(res, j - i + 1 + dp[i]);
 
-                // Check if a valid subarray existed before this one
-                if (left > 0 && best[left - 1] != INT_MAX) {
-                    ans = min(ans, len + best[left - 1]);
-                }
-
-                // Store the best subarray ending at or before right
-                if (right == 0)
-                    best[right] = len;
-                else
-                    best[right] = min(best[right - 1], len);
-            }
-            else {
-
-                // No new valid subarray
-                if (right > 0)
-                    best[right] = best[right - 1];
+                dp[j + 1] = min(dp[j], j - i + 1);
             }
         }
 
-        return ans == INT_MAX ? -1 : ans;
+        return res == n + 1 ? -1 : res;
     }
 };
