@@ -44,17 +44,14 @@ public:
             }
 
             if (valid) {
-                intervals.push_back({left, right});
+                intervals.push_back({right, left});
             }
         }
 
         // Sort by ending position
         sort(
             intervals.begin(),
-            intervals.end(),
-            [](pair<int, int>& a, pair<int, int>& b) {
-                return a.second < b.second;
-            }
+            intervals.end()
         );
 
         vector<string> ans;
@@ -63,8 +60,8 @@ public:
 
         for (auto interval : intervals) {
 
-            int left = interval.first;
-            int right = interval.second;
+            int left = interval.second;
+            int right = interval.first;
 
             if (left > previousEnd) {
 
