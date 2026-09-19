@@ -11,50 +11,40 @@
 class Solution {
 public:
     vector<vector<int>> spiralMatrix(int m, int n, ListNode* head) {
-         vector<vector<int>>v(m,vector<int>(n,-1));
-      int minr =0, minc=0, maxr=m-1, maxc=n-1;
-    ListNode* temp=head;
-    while(minr<=maxr && minc<=maxc){
-        // print top row
-        for(int i=minc;i<=maxc;i++){
-           if(temp==nullptr) return v;
-           v[minr][i]=temp->val;
-           temp=temp->next;
-        }
-        minr++;
-        if(minr>maxr || minc>maxc) break;
-
-        // print right column
-        for(int i=minr;i<=maxr;i++){
-            if(temp==nullptr) return v;
-             v[i][maxc]=temp->val;
-           temp=temp->next;
-        }
-        maxc--;
-        if(minr>maxr || minc>maxc) break;
-
-        // print bottom row
-        if(minr<=maxr){
-            for(int i=maxc;i>=minc;i--){
-                if(temp==nullptr) return v;
-                 v[maxr][i]=temp->val;
-                temp=temp->next;
-
+        vector<vector<int>> matrix(m, vector<int>(n, -1));
+        
+        int topRow = 0, bottomRow = m - 1, leftColumn = 0, rightColumn = n - 1;
+        
+        while (head) {
+            // Fill top row
+            for (int col = leftColumn; col <= rightColumn && head; ++col) {
+                matrix[topRow][col] = head->val;
+                head = head->next;
             }
-            maxr--;
-        }
-        if(minr>maxr || minc>maxc) break;
-        // print left column
-        if(minc<=maxc){
-            for(int i=maxr;i>=minr;i--){
-                if(temp==nullptr) return v;
-                v[i][minc]=temp->val;
-               temp=temp->next;
+            topRow++;
+            
+            // Fill right column
+            for (int row = topRow; row <= bottomRow && head; ++row) {
+                matrix[row][rightColumn] = head->val;
+                head = head->next;
             }
-            minc++;
-            if(minr>maxr || minc>maxc) break;
+            rightColumn--;
+            
+            // Fill bottom row
+            for (int col = rightColumn; col >= leftColumn && head; --col) {
+                matrix[bottomRow][col] = head->val;
+                head = head->next;
+            }
+            bottomRow--;
+            
+            // Fill left column
+            for (int row = bottomRow; row >= topRow && head; --row) {
+                matrix[row][leftColumn] = head->val;
+                head = head->next;
+            }
+            leftColumn++;
         }
-    }  
-  return v;
+        
+        return matrix;
     }
 };
