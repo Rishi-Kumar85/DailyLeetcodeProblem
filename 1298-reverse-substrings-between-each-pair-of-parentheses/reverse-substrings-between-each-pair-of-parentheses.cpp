@@ -1,26 +1,29 @@
+
 class Solution {
 public:
     string reverseParentheses(string s) {
-        stack<string> st;
-        string curr = "";
+        vector<string> st;
+        string current = "";
 
         for (char ch : s) {
 
             if (ch == '(') {
-                st.push(curr);
-                curr = "";
-            }
-            else if (ch == ')') {
-                reverse(curr.begin(), curr.end());
+                st.push_back(current);
+                current = "";
 
-                curr = st.top() + curr;
-                st.pop();
-            }
-            else {
-                curr += ch;
+            } else if (ch == ')') {
+                reverse(current.begin(), current.end());
+
+                string previous = st.back();
+                st.pop_back();
+
+                current = previous + current;
+
+            } else {
+                current += ch;
             }
         }
 
-        return curr;
+        return current;
     }
 };
