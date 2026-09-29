@@ -9,7 +9,7 @@ String, Stack, Greedy, Monotonic Stack
 
 ### 🚀 Performance
 - **Runtime:** 0 ms
-- **Memory:** 9.5 MB
+- **Memory:** 9.7 MB
 
 ---
 
