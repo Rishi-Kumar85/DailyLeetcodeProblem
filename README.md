@@ -10,6 +10,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
@@ -39,9 +40,11 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
