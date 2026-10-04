@@ -1,34 +1,46 @@
 class MinStack {
 public:
-    /** initialize your data structure here. */
-    stack<int> s;
-    stack<int> minS;
-    MinStack() {}
+    stack<long long> s;
+    long long minEle;
+
+    MinStack() {
+        minEle = LLONG_MAX;
+    }
 
     void push(int x) {
-        s.push(x);
-        if (minS.empty() || x <= minS.top()) {
-            minS.push(x);
+        if (s.empty()) {
+            s.push(x);
+            minEle = x;
+        }
+        else {
+            if (x < minEle) {
+                s.push(2LL * x - minEle);
+                minEle = x;
+            }
+            else {
+                s.push(x);
+            }
         }
     }
 
     void pop() {
-        if (s.top() == minS.top()) {
-            minS.pop();
+        if (s.top() < minEle) {
+            minEle = 2LL * minEle - s.top();
         }
+
         s.pop();
     }
 
-    int top() { return s.top(); }
+    int top() {
+        if (s.top() < minEle) {
+            return (int)minEle;
+        }
+        else {
+            return (int)s.top();
+        }
+    }
 
-    int getMin() { return minS.top(); }
+    int getMin() {
+        return (int)minEle;
+    }
 };
-
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack* obj = new MinStack();
- * obj->push(value);
- * obj->pop();
- * int param_3 = obj->top();
- * int param_4 = obj->getMin();
- */
