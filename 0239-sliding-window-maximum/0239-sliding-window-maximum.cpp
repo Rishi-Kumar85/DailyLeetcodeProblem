@@ -2,32 +2,28 @@ class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
         vector<int> result;
-        int n = nums.size();
-        if (n == 0 || k <= 0)
-            return result;
-        vector<int> nextGreaterIndex(n, n); // Initialize with n, which means no
-                                            // greater element to the right
-        stack<int> s;
-        for (int i = 0; i < n; i++) {
-            while (!s.empty() && nums[s.top()] < nums[i]) {
-                nextGreaterIndex[s.top()] = i;
-                s.pop();
-            }
-            s.push(i);
+    deque<int> dq; // Store indices of useful elements
+    int n = nums.size();
+    
+    for (int i = 0; i < n; i++) {
+        // Remove indices that are out of the current window
+        while (!dq.empty() && dq.front() < i - k + 1) {
+            dq.pop_front();
         }
-
-        int j = 0; // Pointer to the maximum element in the current window
-        for (int i = 0; i <= n - k; i++) {
-            if (j < i)
-                j = i; // Move j to the start of the window if it's out of
-                       // bounds
-            while (
-                nextGreaterIndex[j] <
-                i + k) { // Move j to the next greater element within the window
-                j = nextGreaterIndex[j];
-            }
-            result.push_back(nums[j]); // The maximum in the current window
+        
+        // Remove elements that are smaller than the current element
+        while (!dq.empty() && nums[dq.back()] < nums[i]) {
+            dq.pop_back();
         }
-        return result;
+        
+        dq.push_back(i);
+        
+        // The front of the deque is the largest element in the current window
+        if (i >= k - 1) {
+            result.push_back(nums[dq.front()]);
+        }
+    }
+    
+    return result;
     }
 };
