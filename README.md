@@ -17,6 +17,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -31,6 +32,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0622-design-circular-queue) |
 ## Tree
 |  |
