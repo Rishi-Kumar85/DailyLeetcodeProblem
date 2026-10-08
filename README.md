@@ -21,6 +21,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -63,6 +64,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
@@ -73,6 +75,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Dynamic Programming
 |  |
