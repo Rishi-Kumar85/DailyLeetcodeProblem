@@ -36,6 +36,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
@@ -61,6 +62,7 @@
 | [0022-generate-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0301-remove-invalid-parentheses) |
+| [0649-dota2-senate](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -110,6 +112,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
