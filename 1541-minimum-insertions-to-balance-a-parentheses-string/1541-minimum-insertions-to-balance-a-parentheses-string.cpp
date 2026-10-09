@@ -1,31 +1,36 @@
-
 class Solution {
 public:
     int minInsertions(string s) {
+        stack<char> st;
         int ans = 0;
-        int need = 0;
+        int n = s.size();
 
-        for (int i = 0; i < s.size(); i++) {
+        for (int i = 0; i < n; i++) {
             if (s[i] == '(') {
-                need += 2;
-
-                // If the required closing count is odd,
-                // insert ')' before starting a new pair.
-                if (need % 2 == 1) {
+                st.push('(');
+            } else {
+                // If the next character is not ')',
+                // insert one ')' to complete the pair.
+                if (i + 1 >= n || s[i + 1] != ')') {
                     ans++;
-                    need--;
+                } else {
+                    // Consume the second ')' of the pair.
+                    i++;
                 }
-            } 
-            else {
-                need--;
 
-                if (need < 0) {
+                // Match this pair with an opening '('.
+                if (!st.empty()) {
+                    st.pop();
+                } else {
+                    // Insert a missing opening '('.
                     ans++;
-                    need = 1;
                 }
             }
         }
 
-        return ans + need;
+        // Each unmatched '(' needs two closing parentheses.
+        ans += 2 * st.size();
+
+        return ans;
     }
 };
