@@ -104,16 +104,19 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0301-remove-invalid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 ## Greedy
@@ -139,6 +142,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
