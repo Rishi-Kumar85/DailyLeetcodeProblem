@@ -64,6 +64,7 @@
 | [0020-valid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0032-longest-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0301-remove-invalid-parentheses) |
 | [0649-dota2-senate](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0678-valid-parenthesis-string) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0301-remove-invalid-parentheses) |
 ## Design
 |  |
@@ -107,6 +109,7 @@
 | [0100-same-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -121,6 +124,7 @@
 | [0100-same-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 ## Greedy
 |  |
@@ -147,6 +151,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
