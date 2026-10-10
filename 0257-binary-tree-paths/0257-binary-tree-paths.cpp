@@ -16,12 +16,12 @@ public:
         if (root == NULL) {
             return;
         }
-        s += to_string(root->val) + "->";
+        s += to_string(root->val);
         if (root->left == NULL && root->right == NULL) {
-            paths.push_back(
-                s.substr(0, s.length() - 2)); // remove the last "->"
+            paths.push_back(s); // remove the last "->"
             return;
         }
+        s+="->";
         helper(root->left, paths, s);
         helper(root->right, paths, s);
     }
