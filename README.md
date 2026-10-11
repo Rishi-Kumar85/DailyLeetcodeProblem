@@ -19,6 +19,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0678-valid-parenthesis-string) |
@@ -112,6 +113,7 @@
 | [0100-same-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0257-binary-tree-paths) |
@@ -129,6 +131,7 @@
 | [0100-same-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0257-binary-tree-paths) |
@@ -160,6 +163,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0257-binary-tree-paths) |
