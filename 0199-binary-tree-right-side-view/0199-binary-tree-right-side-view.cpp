@@ -11,33 +11,35 @@
  */
 class Solution {
 public:
-    vector<int> rightSideView(TreeNode* root) {
-         vector<int> result;
-    if (!root) return result;
+    int numOfLevels(TreeNode* root){
+    if(!root) return 0;
+    int leftLevel = numOfLevels(root->left);
+    int rightLevel = numOfLevels(root->right);
+    return max(leftLevel,rightLevel) + 1;
+}
 
-    queue<TreeNode*> q;
-    q.push(root);
-
-    while (!q.empty()) {
-        int levelSize = q.size();
-        for (int i = 0; i < levelSize; ++i) {
-            TreeNode* current = q.front();
-            q.pop();
-
-            // If it's the last node in the current level, add it to the result
-            if (i == levelSize - 1) {
-                result.push_back(current->val);
-            }
-
-            if (current->left) {
-                q.push(current->left);
-            }
-            if (current->right) {
-                q.push(current->right);
-            }
-        }
+void nthLevel(TreeNode* root,int curr,int level,vector<int>& ans){
+    if(!root) return;
+    if(curr == level){
+        ans[level] = root->val;
+        return;
     }
+    nthLevel(root->left,curr+1,level,ans);
+    nthLevel(root->right,curr+1,level,ans);
+}
 
-    return result;
+
+
+void levelOrder(TreeNode* root, vector<int>& ans){
+    int n = ans.size();
+    for(int i=0;i<n;i++){
+        nthLevel(root,0,i,ans);
     }
+}
+
+vector<int> rightSideView(TreeNode* root) {
+   vector<int> ans(numOfLevels(root),0);
+   levelOrder(root,ans);
+   return ans;
+}
 };
