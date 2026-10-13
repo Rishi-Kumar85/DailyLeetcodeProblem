@@ -14,6 +14,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Depth-First Search
 |  |
 | ------- |
