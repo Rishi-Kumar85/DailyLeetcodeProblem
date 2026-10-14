@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -119,6 +120,7 @@
 | [0100-same-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
@@ -146,6 +148,7 @@
 | [0100-same-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
@@ -219,9 +222,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
