@@ -141,6 +141,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 | [0257-binary-tree-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -268,6 +271,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
