@@ -13,6 +13,7 @@
 | [0622-design-circular-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0622-design-circular-queue) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -34,6 +35,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Queue
 |  |
@@ -143,6 +146,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
@@ -178,6 +182,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Greedy
 |  |
@@ -276,6 +281,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Indexed Tree
 |  |
