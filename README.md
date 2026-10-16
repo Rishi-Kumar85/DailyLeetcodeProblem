@@ -8,6 +8,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0239-sliding-window-maximum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0622-design-circular-queue) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -128,6 +129,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
@@ -162,6 +164,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
@@ -260,6 +263,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Math
 |  |
@@ -269,6 +273,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
