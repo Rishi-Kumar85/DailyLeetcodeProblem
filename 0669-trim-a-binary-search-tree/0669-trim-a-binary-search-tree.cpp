@@ -12,26 +12,46 @@
  */
 class Solution {
 public:
+    void trim(TreeNode* node, int low, int high) {
+        if (node == NULL) {
+            return;
+        }
+
+        // Trim the left subtree
+        while (node->left != NULL) {
+            if (node->left->val < low) { // If the left child's value is less
+                                         // than low, trim the left subtree
+                node->left = node->left->right;
+            } else if (node->left->val >
+                       high) { // If the left child's value is greater than
+                               // high, trim the left subtree
+                node->left = node->left->left;
+            } else {
+                break;
+            }
+        }
+        // Trim the right subtree
+        while (node->right != NULL) {
+            if (node->right->val < low) { // If the right child's value is less
+                                          // than low, trim the right subtree
+                node->right = node->right->right;
+            } else if (node->right->val >
+                       high) { // If the right child's value is greater than
+                               // high, trim the right subtree
+                node->right = node->right->left;
+            } else {
+                break;
+            }
+        }
+        // Recursively trim the left and right subtrees
+        trim(node->left, low, high);
+        trim(node->right, low, high);
+    }
+
     TreeNode* trimBST(TreeNode* root, int low, int high) {
-        if (root == NULL) {
-            return NULL;
-        }
-
-        if (root->val < low) { // If the current node's value is less than low,
-                               // trim the right subtree
-            return trimBST(root->right, low, high);
-        }
-
-        if (root->val > high) { // If the current node's value is greater than
-                                // high, trim the left subtree
-            return trimBST(root->left, low, high);
-        }
-
-        root->left =
-            trimBST(root->left, low, high); // Recursively trim the left subtree
-        root->right = trimBST(root->right, low,
-                              high); // Recursively trim the right subtree
-
-        return root;
+        TreeNode* dummy = new TreeNode(INT_MAX);
+        dummy->left = root;
+        trim(dummy, low, high);
+        return dummy->left;
     }
 };
