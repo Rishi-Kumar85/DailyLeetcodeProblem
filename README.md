@@ -21,6 +21,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
@@ -214,6 +215,7 @@
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Depth-First Search
 |  |
@@ -266,6 +268,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
