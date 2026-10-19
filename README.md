@@ -31,6 +31,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0155-min-stack) |
@@ -139,6 +140,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0199-binary-tree-right-side-view) |
@@ -178,6 +180,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0199-binary-tree-right-side-view) |
@@ -208,6 +211,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0622-design-circular-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0622-design-circular-queue) |
 ## Simulation
 |  |
@@ -229,6 +233,7 @@
 | [0100-same-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0199-binary-tree-right-side-view) |
