@@ -20,6 +20,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -97,6 +98,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -279,6 +282,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
