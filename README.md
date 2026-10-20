@@ -28,6 +28,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3886-sum-of-sortable-integers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -307,6 +310,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search Tree
 |  |
 | ------- |
