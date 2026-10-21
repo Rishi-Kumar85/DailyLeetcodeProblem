@@ -17,6 +17,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1207-unique-number-of-occurrences) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2094-finding-3-digit-even-numbers) |
@@ -289,6 +290,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1207-unique-number-of-occurrences) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -312,6 +314,7 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3886-sum-of-sortable-integers) |
@@ -356,6 +359,7 @@
 ## Counting
 |  |
 | ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Recursion
 |  |
