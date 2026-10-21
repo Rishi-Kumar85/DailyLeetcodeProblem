@@ -19,6 +19,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -276,6 +278,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
@@ -286,6 +289,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1207-unique-number-of-occurrences) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -353,4 +357,8 @@
 |  |
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Recursion
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
