@@ -222,6 +222,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0138-copy-list-with-random-pointer) |
 | [0622-design-circular-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0622-design-circular-queue) |
 ## Simulation
 |  |
@@ -290,6 +291,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0138-copy-list-with-random-pointer) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1207-unique-number-of-occurrences) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1814-count-nice-pairs-in-an-array) |
