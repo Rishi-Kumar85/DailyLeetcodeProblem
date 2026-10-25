@@ -15,6 +15,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -179,6 +180,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -262,6 +264,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0669-trim-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1254-number-of-closed-islands](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1254-number-of-closed-islands) |
 ## DP on Trees
 |  |
 | ------- |
@@ -351,6 +354,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -373,4 +377,8 @@
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2094-finding-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
