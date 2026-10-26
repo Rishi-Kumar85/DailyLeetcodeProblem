@@ -19,6 +19,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -244,6 +245,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -307,6 +309,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1207-unique-number-of-occurrences) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
