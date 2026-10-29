@@ -13,6 +13,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0622-design-circular-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0622-design-circular-queue) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0658-find-k-closest-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0239-sliding-window-maximum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -89,6 +91,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0658-find-k-closest-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
@@ -228,6 +231,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -254,6 +258,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -320,6 +325,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0347-top-k-frequent-elements) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1636-sort-array-by-increasing-frequency) |
