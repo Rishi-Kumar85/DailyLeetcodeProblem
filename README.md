@@ -38,6 +38,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -121,6 +122,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2409-count-days-spent-together) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bracket Sequences
 |  |
@@ -186,6 +188,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -290,6 +293,7 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-number-of-closed-islands](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -342,6 +346,7 @@
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
@@ -352,6 +357,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Math
 |  |
 | ------- |
@@ -378,11 +384,13 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
