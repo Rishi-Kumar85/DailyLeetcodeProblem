@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0658-find-k-closest-elements) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0622-design-circular-queue) |
 ## Tree
 |  |
@@ -249,6 +251,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0658-find-k-closest-elements) |
@@ -420,5 +423,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0658-find-k-closest-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
