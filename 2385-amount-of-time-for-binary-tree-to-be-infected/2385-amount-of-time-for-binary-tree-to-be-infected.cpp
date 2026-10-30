@@ -1,35 +1,46 @@
 class Solution {
 public:
+    TreeNode* startNode = NULL;
+
+    void find(TreeNode* root, int start) {
+        if (!root)
+            return;
+        if (root->val == start) {
+            startNode = root;
+            return;
+        }
+        find(root->left, start);
+        find(root->right, start);
+    }
+
+    void markParents(TreeNode* root,
+                     unordered_map<TreeNode*, TreeNode*>& parentMap) {
+        if (!root)
+            return;
+        if (root->left) {
+            parentMap[root->left] = root;
+            markParents(root->left, parentMap);
+        }
+        if (root->right) {
+            parentMap[root->right] = root;
+            markParents(root->right, parentMap);
+        }
+    }
+
     int amountOfTime(TreeNode* root, int start) {
         if (!root)
             return 0;
 
+        // DFS to find start node
+        find(root, start);
+
+        // DFS to mark parentMap
         unordered_map<TreeNode*, TreeNode*> parentMap;
-        queue<TreeNode*> q;
-        q.push(root);
-        TreeNode* startNode = nullptr;
-
-        // BFS to build parent map and find the start node
-        while (!q.empty()) {
-            TreeNode* node = q.front();
-            q.pop();
-
-            if (node->val == start) {
-                startNode = node;
-            }
-
-            if (node->left) {
-                parentMap[node->left] = node;
-                q.push(node->left);
-            }
-            if (node->right) {
-                parentMap[node->right] = node;
-                q.push(node->right);
-            }
-        }
+        markParents(root, parentMap);
 
         // BFS to calculate the time taken for infection
         unordered_map<TreeNode*, bool> visited;
+        queue<TreeNode*> q;
         q.push(startNode);
         visited[startNode] = true;
         int time = 0;
