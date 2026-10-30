@@ -188,6 +188,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -200,6 +201,7 @@
 | [0226-invert-binary-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1254-number-of-closed-islands) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -231,6 +233,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Greedy
 |  |
 | ------- |
@@ -292,6 +295,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0669-trim-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-number-of-closed-islands](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1254-number-of-closed-islands) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## DP on Trees
@@ -335,6 +339,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2094-finding-3-digit-even-numbers) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
