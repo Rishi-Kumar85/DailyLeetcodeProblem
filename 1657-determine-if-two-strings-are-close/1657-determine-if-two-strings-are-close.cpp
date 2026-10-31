@@ -12,20 +12,18 @@ public:
 
         if (freq1.size() != freq2.size())
             return false;
-            
+
         for (auto& x : freq1) {
             if (freq2.find(x.first) == freq2.end())
                 return false;
         }
-        vector<int> counts1, counts2;
-        for (const auto& pair : freq1)
-            counts1.push_back(pair.second);
-        for (const auto& pair : freq2)
-            counts2.push_back(pair.second);
 
-        sort(counts1.begin(), counts1.end());
-        sort(counts2.begin(), counts2.end());
+        unordered_map<int, int> countFreq1, countFreq2;
+        for (auto& x : freq1)
+            countFreq1[x.second]++;
+        for (auto& x : freq2)
+            countFreq2[x.second]++;
 
-        return counts1 == counts2;
+        return countFreq1 == countFreq2;
     }
 };
