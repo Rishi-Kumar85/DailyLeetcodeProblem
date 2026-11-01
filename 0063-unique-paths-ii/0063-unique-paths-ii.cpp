@@ -15,21 +15,21 @@ public:
         dp[0][0] = 1; // Starting point
 
         // Fill the first column
+        // Fill the first column
         for (int i = 1; i < m; i++) {
-            dp[i][0] =
-                (obstacleGrid[i][0] == 0 && dp[i - 1][0] == 1)
-                    ? 1
-                    : 0; // If there's an obstacle, no paths lead to this cell
+            if (obstacleGrid[i][0] == 0) {
+                dp[i][0] = dp[i - 1][0]; // If there's no obstacle, inherit the
+                                         // path count from the cell above
+            }
         }
 
         // Fill the first row
         for (int j = 1; j < n; j++) {
-            dp[0][j] =
-                (obstacleGrid[0][j] == 0 && dp[0][j - 1] == 1)
-                    ? 1
-                    : 0; // If there's an obstacle, no paths lead to this cell
+            if (obstacleGrid[0][j] == 0) {
+                dp[0][j] = dp[0][j - 1]; // If there's no obstacle, inherit the
+                                         // path count from the cell to the left
+            }
         }
-
         // Fill the rest of the dp array
         for (int i = 1; i < m; i++) {
             for (int j = 1; j < n; j++) {
