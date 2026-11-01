@@ -1,19 +1,12 @@
 class Solution {
 public:
     int minMoves2(vector<int>& nums) {
-        // The median minimizes the sum of absolute differences.
-
-        sort(nums.begin(), nums.end());
-
-        int median = nums[nums.size() / 2]; // Any target between median gives
-                                            // the same minimum total cost.
-
-        int ans = 0;
-
-        for (int x : nums) {
-            ans += abs(x - median);
+        int n = nums.size(), steps = 0;
+        nth_element(nums.begin(), nums.begin()+(n/2), nums.end()); //Fixing ths median element
+        int median = nums[n/2];
+        for(int i=0; i<n; i++){
+            steps += abs(nums[i] - median);
         }
-
-        return ans;
+        return steps;
     }
 };
