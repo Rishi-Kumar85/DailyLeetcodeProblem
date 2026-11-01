@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -149,6 +150,7 @@
 | [0022-generate-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0063-unique-paths-ii) |
 | [0509-fibonacci-number](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -449,6 +451,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0063-unique-paths-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
