@@ -1,16 +1,17 @@
 class Solution {
 public:
+    int minCost(int n, vector<int>& cost, vector<int>& memo) {
+        if (n <= 1)
+            return cost[n];
+        if (memo[n] != -1)
+            return memo[n];
+        memo[n] = cost[n] +
+                  min(minCost(n - 1, cost, memo), minCost(n - 2, cost, memo));
+        return memo[n];
+    }
     int minCostClimbingStairs(vector<int>& cost) {
         int n = cost.size();
-
-        // Base cases: The cost to reach the first two steps is just their
-        // respective costs
-        for (int i = 2; i < n; i++) {
-            cost[i] += min(cost[i - 1], cost[i - 2]);
-        }
-
-        // The minimum cost to reach the top is the smaller of the costs to
-        // reach the last two steps
-        return min(cost[n - 1], cost[n - 2]);
+        vector<int> memo(n, -1);
+        return min((minCost(n-1,cost,memo)),(minCost(n-2,cost,memo)));
     }
 };
