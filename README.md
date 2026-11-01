@@ -15,6 +15,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0622-design-circular-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0622-design-circular-queue) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0658-find-k-closest-elements) |
@@ -281,6 +282,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -389,6 +391,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
