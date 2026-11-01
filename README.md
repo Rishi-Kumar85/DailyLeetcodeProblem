@@ -148,6 +148,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -380,6 +381,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -425,6 +427,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
