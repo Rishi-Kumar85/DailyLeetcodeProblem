@@ -4,7 +4,7 @@ public:
         int maximum = *max_element(nums.begin(),nums.end());
         int ans = 0;
         for(int num : nums){
-            ans += abs(maximum-num);
+            ans += (maximum-num);
         }
         return ans;
     }
