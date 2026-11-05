@@ -25,6 +25,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -291,6 +292,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -342,6 +344,7 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0658-find-k-closest-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
@@ -488,6 +491,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0658-find-k-closest-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Data Stream
 |  |
 | ------- |
