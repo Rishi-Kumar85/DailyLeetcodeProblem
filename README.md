@@ -414,6 +414,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
