@@ -46,6 +46,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -79,12 +80,14 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Queue
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 | [0649-dota2-senate](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0649-dota2-senate) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +106,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0658-find-k-closest-elements) |
 | [2747-count-zero-request-servers](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
@@ -121,6 +126,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -452,6 +458,7 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
