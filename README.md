@@ -28,6 +28,7 @@
 | [1267-count-servers-that-communicate](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -180,6 +181,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3665-twisted-mirror-path-count) |
@@ -428,6 +430,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2409-count-days-spent-together](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2409-count-days-spent-together) |
@@ -541,5 +544,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
