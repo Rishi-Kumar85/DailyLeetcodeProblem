@@ -153,6 +153,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1657-determine-if-two-strings-are-close) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2409-count-days-spent-together) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -303,6 +304,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
