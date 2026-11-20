@@ -185,6 +185,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1137-n-th-tribonacci-number) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
