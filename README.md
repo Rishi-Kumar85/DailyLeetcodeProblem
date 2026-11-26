@@ -323,6 +323,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3360-stone-removal-game](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3360-stone-removal-game) |
 ## Sorting
 |  |
 | ------- |
@@ -462,6 +463,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2409-count-days-spent-together](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3360-stone-removal-game](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Rishi-Kumar85/DailyLeetcodeProblem/tree/master/3723-maximize-sum-of-squares-of-digits) |
